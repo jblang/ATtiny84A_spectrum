@@ -1,0 +1,9 @@
+**/build
+**/debug
+**/dist
+**/.generated_files
+
+*.kicad_pcb-bak
+*.sch-bak
+fp-info-cache
+*.net
